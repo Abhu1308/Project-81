@@ -1,0 +1,10 @@
+body {
+    background-image:url("bg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    text-align: center;
+}
+canvas {
+    border: 3px aqua ridge;
+}
